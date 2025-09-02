@@ -1,0 +1,35 @@
+class MyIcon {
+  static const String danger = "assets/icon/danger.svg";
+  static const String userDelete = "assets/icon/remove_user.svg";
+  static const String settings = "assets/icon/settings.svg";
+  static const String info = "assets/icon/info.svg";
+  static const String logout = "assets/icon/Logout.svg";
+  static const String notification = "assets/icon/notification.svg";
+  static const String person = "assets/icon/person.svg";
+  static const String privacy = "assets/icon/Privecy.svg";
+  static const String lock = "assets/icon/lock.svg";
+  static const String clock = "assets/icon/clock.svg";
+  static const String menutop = "assets/icon/menutop.svg";
+  static const String qrCode = "assets/icon/qrcode.svg";
+  static const String copy = "assets/icon/copy.svg";
+  static const String successCircle = "assets/icon/success_circle.svg";
+  static const String arrowRight = "assets/icon/arrow.svg";
+  static const String arrowRightIos = "assets/icon/arrow_ios.svg";
+  static const String finger2 = "assets/icon/finger2.svg";
+  static const String delete = "assets/icon/delete.svg";
+  static const String bank = "assets/icon/bank.svg";
+  static const String cart = "assets/icon/cart.svg";
+  static const String cashout = "assets/icon/cashout.svg";
+  static const String donation = "assets/icon/donation.svg";
+  static const String mobileRecharge = "assets/icon/mobile_recharge.svg";
+  static const String paybill = "assets/icon/pay_bill.svg";
+  static const String sendMoney = "assets/icon/send_money.svg";
+  static const String user = "assets/icon/user.svg";
+  static const String operator = "assets/icon/operator.svg";
+  static const String history = "assets/icon/history.svg";
+  static const String bottomHistory = "assets/icon/history.svg";
+  static const String bottomHome = "assets/icon/home.svg";
+  static const String addMoney = "assets/icon/add_money.svg";
+  static const String phoneSVG = "assets/icon/phoneSvg.svg";
+  static const String menuQrCode = "assets/icon/menuQrCode.svg";
+}

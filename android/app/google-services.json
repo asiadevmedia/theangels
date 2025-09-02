@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "492997799966",
+    "project_id": "viserpay",
+    "storage_bucket": "viserpay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492997799966:android:7502dd650a44db8cf1be0f",
+        "android_client_info": {
+          "package_name": "dev.vlab.viserpay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5hfLPLfSoKi23nTIAUGpdicGOZ0XF4Vs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
